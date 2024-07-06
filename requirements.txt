@@ -1,0 +1,10 @@
+requests
+json
+bs4
+notion_client
+os
+dotenv
+logging
+datetime
+time
+random
